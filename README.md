@@ -1,1 +1,1 @@
-# Cat-And-Mouse
+# Cat-and-the-Mouse
